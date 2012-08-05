@@ -13,7 +13,7 @@ title : kim miller | kwdmiller.com
 tagline: uncapitalised
 author : kim miller
   name : Kim Miller
-  email : blah@email.test
+  email : kim@momentarily.co
   github : kwdmiller
   twitter : @kwdmiller
   feedburner : feedname
@@ -80,7 +80,7 @@ JB :
   #
   comments :
     provider : disqus
-    disqus :
+    disqus : kwdmiller
       short_name : jekyllbootstrap
     livefyre :
       site_id : 123
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-31832988-1'
     getclicky :
       site_id : 
     mixpanel :
