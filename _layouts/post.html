@@ -1,5 +1,8 @@
----
-layout: default
----
-{% include JB/setup %}
-{% include themes/basic/post.html %}
+<div id="content">
+
+
+	<div class="main">
+	  {{ content }}
+	  {% include JB/comments %}
+	</div>
+</div>

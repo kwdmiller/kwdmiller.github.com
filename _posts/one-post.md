@@ -3,7 +3,6 @@ layout: post
 category : setup
 tags : [intro, beginner, jekyll, tutorial]
 ---
-{% include JB/setup %}
 
 OS X Mountain Lion: Data Loss via 'Save As'
 LAST UPDATED AUGUST 04, 2012 - SEND FEEDBACK

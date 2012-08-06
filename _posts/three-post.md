@@ -3,7 +3,6 @@ layout: post
 category : setup
 tags : [intro, beginner, jekyll, tutorial]
 ---
-{% include JB/setup %}
 
 
 Ten million users is the new one million users

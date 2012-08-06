@@ -3,7 +3,6 @@ layout: post
 category : setup
 tags : [intro, beginner, jekyll, tutorial]
 ---
-{% include JB/setup %}
 
 
 BUT IT’S ALL FACEBOOK’S FAULT!
